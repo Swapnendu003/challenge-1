@@ -1,0 +1,17 @@
+-- import: button/lib
+
+
+-- ftd.column:
+width: fill-container
+align-content: center
+padding.px: 20
+
+
+-- lib.button: Meet Swapnendu
+link: https://swapnendu-portfolio-website.vercel.app/
+bg-color: $lib.background
+text-color: $lib.monochrome-light
+border-color: $lib.background
+
+
+-- end: ftd.column
